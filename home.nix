@@ -17,8 +17,8 @@
     tmux
   ];
  
-  xdg.configFile."nvim".source = ./dot_config/nvim;
+  xdg.configFile."nvim".source = ./nvim;
 
-  xdg.configFile."kitty".source = ./dot_config/kitty;
+  xdg.configFile."kitty".source = ./kitty;
 }
 
